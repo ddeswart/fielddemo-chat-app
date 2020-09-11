@@ -14,6 +14,7 @@ RUN apk add --no-cache \
     uwsgi-python3 \
     postgresql-dev \
     gcc \ 
+    libffi \
     libffi-dev \
     openssl-dev \
     python3-dev \ 
